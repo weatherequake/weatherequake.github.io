@@ -114,31 +114,11 @@ const members = {
             name : "かたこふー",
             description : "かたこふーです！地震災害に興味のある学生です。YouTubeを通じたライブ配信や、X（旧Twitter）での防災の呼びかけなどを行なっています。",
             icon : "katakofu.webp"
-            sns : [
-                {
-                    url : "https://twitter.com/katakohu",
-                    name : "X"
-                },
-                {
-                    url : "https://www.youtube.com/@katakohu_eq",
-                    name : "Youtube"
-                },
-            ]
         },
         {
             name : "ランサブ",
             description : "地震のシミュレーション動画を作るのが趣味です。地震のライブ配信とかもしています。",
             icon : "ransub.webp"
-            sns : [
-                {
-                    url : "https://twitter.com/ransabu_5656",
-                    name : "X"
-                },
-                {
-                    url : "https://www.youtube.com/@ランサブ",
-                    name : "Youtube"
-                },
-            ]
         },
         {
             name : "砂漠の砂",
@@ -167,12 +147,6 @@ const members = {
             name : "Mr.ドラ",
             description : "Mr.ドラです。気象・地震に興味があり、気象や地震のWebアプリを作っています。誰もが使いやすいアプリを作れるように頑張ります。",
             icon : "mrdora.jpg"
-            sns : [
-                {
-                    url : "https://twitter.com/Mr82697235",
-                    name : "X"
-                },
-            ]
         },
         {
             name : "WeatherQuake",
