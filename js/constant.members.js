@@ -108,7 +108,7 @@ const members = {
         {
             name : "Shirahama_EEW",
             description : "Shirahama_EEWです。小学生の頃から地震や津波などに興味を持ち、現在は地震観測をしています。 少しでも皆さんのお力になれるような情報発信を可能な限りやって行きたいと思います。",
-            icon : "shimahara.webp"
+            icon : "shirahama.webp"
         },
         {
             name : "かたこふー",
