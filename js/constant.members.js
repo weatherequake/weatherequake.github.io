@@ -144,10 +144,10 @@ const members = {
             ]
         },
         {
-/*            name : "Mr.ドラ",
+            name : "Mr.ドラ",
             description : "Mr.ドラです。気象・地震に興味があり、気象や地震のWebアプリを作っています。誰もが使いやすいアプリを作れるように頑張ります。",
             icon : "mrdora.jpg"
-        },*/
+        },
         {
             name : "WeatherQuake",
             description : "気象/地象に関係するWebアプリやサイトをつくっています。",
