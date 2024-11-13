@@ -67,7 +67,7 @@ const members = {
                 {
                     url : "https://discord.com/users/1268227881188855933",
                     name : "Discord"
-                },
+                }
             ]
         },
         {
@@ -103,63 +103,64 @@ const members = {
         {
             name : "綾織アオイ",
             description : "綾織アオイです。災害情報発信について興味があり、「わかりやすく見やすい災害情報」を作り多くの層に発信したいと思います。",
-            icon : "aoi.webp"
+            icon : "aoi.webp",
             sns : [
                 {
                     url : "https://twitter.com/Ayaori_bosai",
                     name : "X"
-                },
+                }
             ]
         },
         {
             name : "Shirahama_EEW",
             description : "Shirahama_EEWです。小学生の頃から地震や津波などに興味を持ち、現在は地震観測をしています。 少しでも皆さんのお力になれるような情報発信を可能な限りやって行きたいと思います。",
-            icon : "shirahama.webp"
+            icon : "shirahama.webp",
             sns : [
                 {
                     url : "https://twitter.com/Shirahama_EEW",
                     name : "X"
-                },
+                }
             ]
         },
         {
             name : "かたこふー",
             description : "かたこふーです！地震災害に興味のある学生です。YouTubeを通じたライブ配信や、X（旧Twitter）での防災の呼びかけなどを行なっています。",
-            icon : "katakofu.webp"
+            icon : "katakofu.webp",
             sns : [
                 {
                     url : "https://twitter.com/katakohu",
                     name : "X"
-                },
+                }
             ]
         },
         {
             name : "ランサブ",
             description : "地震のシミュレーション動画を作るのが趣味です。地震のライブ配信とかもしています。",
-            icon : "ransub.webp"
+            icon : "ransub.webp",
             sns : [
                 {
                     url : "https://twitter.com/ransabu_5656",
                     name : "X"
-                },
+                }
             ]
         },
         {
             name : "砂漠の砂",
             description : "砂漠の砂です。WQBosaiで、様々なことを学びたいです！",
-            icon : "sabakusuna.png"
+            icon : "sabakusuna.png",
             sns : [
                 {
                     url : "https://twitter.com/sabakuno_suna",
                     name : "X"
-                },
+                }
             ]
-        },
+        }
+    ],
     "技術メンバー": [
         {
             name : "Yumin",
             description : "※※配信と同一※※",
-            icon : "yumi_nyan.webp",
+            icon : "yumi_nyan.webp"
         },
         {
             name : "くれすた",
@@ -175,25 +176,25 @@ const members = {
         {
             name : "Mr.ドラ",
             description : "Mr.ドラです。気象・地震に興味があり、気象や地震のWebアプリを作っています。誰もが使いやすいアプリを作れるように頑張ります。",
-            icon : "mrdora.jpg"
+            icon : "mrdora.jpg",
             sns : [
                 {
                     url : "https://twitter.com/Mr82697235",
                     name : "X"
-                },
+                }
             ]
         },
         {
             name : "WeatherQuake",
             description : "気象/地象に関係するWebアプリやサイトをつくっています。",
-            icon : "wq.png",
+            icon : "wq.png"
         }
     ]
-}
+};
 
 const SNSIconsConstant = {
     "Discord" : "/images/sns/discord.svg",
     "X" : "/images/sns/x.svg",
     "Github": "/images/sns/github.svg",
-    "Youtube": "/images/sns/youtube.svg",
-}
+    "Youtube": "/images/sns/youtube.svg"
+};
